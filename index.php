@@ -1,6 +1,6 @@
 <?php
 
 
-header("Loation:index.html");
+header("Location:index.html");
 
 ?>
